@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geek4ctrl
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Web3, NFTs, Crypto and Defi
 - 🌱 I’m currently learning React, Node.js, Golang, Python and Solidity
 - 💞️ I’m looking to collaborate on Open source projects
 

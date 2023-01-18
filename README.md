@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @geek4ctrl
+- 👋 Hi, I’m Laurent Mbuyu
 - 👀 I’m interested in Web Development, Web3, NFTs, Crypto and Defi
 - 🌱 I’m currently learning React, Node.js, Golang, Python and Solidity
-- 💞️ I’m looking to collaborate on Open source projects
+- 💞️ I’m looking to collaborate on open source projects
 
 <!---
 geek4ctrl/geek4ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

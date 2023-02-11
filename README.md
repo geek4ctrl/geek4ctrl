@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laurent Mbuyu
 - 👀 I’m interested in Web Development, Web3, NFTs, Crypto and Defi
-- 🌱 I’m currently learning React, Node.js, Golang, Python and Solidity
+- 🌱 I’m currently learning React, Stencil, Node.js, Golang, Python and Solidity
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
